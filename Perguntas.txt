@@ -3,7 +3,10 @@
 	Push envia as mudanças para a o repositório
 	pop remove o ultimo commit da fila
 2 – Quais sáo as vantagens de usar Branchs num repositório git?
+	Permite varias versões do mesmo programa e permite musltiplos usuários trabalharem no mesmo programa ao mesmo tempo
 3 – Nos Merges de conteúdos resultantes de um “Pop” podem resultar em conflitos. Em
 que consistem e como podem ser resolvidos esses conflitos?
+	O usuário pode escolher qual versão quer manter
 4 – “Clone” e “Fork” são formas diferentes de replicar um repositório Git. Quais as
 diferenças entre eles?
+	Clone trás o repositório para o computador do usuário e caso ele tenha as permissões corretas 
